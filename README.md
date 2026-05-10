@@ -61,11 +61,9 @@ The documents in the project are loaded into every conversation automatically. A
 
 What's Inside This Repository
 
-/docs — The six structured documents that power the wizard
-/voice-profiles — Voice profiles for Nacho de Marco and Justice Erolin
-/system-prompt — The Claude Project's custom instructions
-/examples — Example prompts and wizard responses
-
+The six structured documents that power the wizard
+Voice profiles for Nacho de Marco and Justice Erolin
+The Claude Project's custom instructions
 
 What This Project Is Really About
 Most "AI for content" tools assume the bottleneck is generating words. For a serious editorial function, words are not the bottleneck. The bottleneck is consistent judgment — knowing which angle is fresh, which lens fits which finding, which author has authority for which topic, which external source actually validates a claim, and which proprietary data point is the start of an article versus the start of a cliché.
